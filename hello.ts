@@ -2,7 +2,7 @@
 class Greeter {
     greeting: string;
     constructor() {
-        this.greeting = "World";
+        this.greeting = "Aks";
     }
     greet() {
         return "Hello, " + this.greeting;
